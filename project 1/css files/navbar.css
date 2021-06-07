@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* .navii{
+
+} */
+#logo{
+    margin: 10px 34px;
+}
+#logo img{
+    /* display: flex;
+    flex-direction: column; */
+    height: 50px;
+    margin: 34px 45px;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+}
+#flex-container ul{
+    display: flex;
+    flex-direction: column;
+    /* list-style: none; */
+}
+body{
+    background-image: url(/home/yveltal/Desktop/visual files/web projects/all pictures/workspace-1280538.jpg)
+}
